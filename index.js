@@ -7,5 +7,6 @@ if (userName === "Ali" && password === "ali_khan") {
     console.log("Congratulations! Login Successfull.");
 }
 else {
-    console.log("Invalid Username or Passwoed!");
+    console.log("Invalid Username or Password!");
+    console.log("Please try again...");
 }
